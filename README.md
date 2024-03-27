@@ -30,9 +30,8 @@ This Bash script automates the setup and configuration of an EC2 instance for ru
 ## Usage
 
 1. Clone this repository to your EC2 instance.
-2. Make the script executable: `sudo bash Nexus_install_script.sh`
-3. Run the script: `sudo ./Nexus_install_script.sh`
-
+2. Run the script: `sudo ./Nexus_install_script.sh` OR
+3. Run the script: `sudo bash Nexus_install_script.sh`
 ## Author
 
 - **Paul Amoah**
